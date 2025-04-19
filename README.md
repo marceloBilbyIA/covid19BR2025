@@ -37,5 +37,4 @@ Foi criado um **mapa interativo** das regiões do Brasil com destaque para os ó
 ```bash
 git clone https://github.com/marceloBilbyIA/covid19BR2025.git
 cd covid19BR2025
-pip install -r requirements.txt
 jupyter notebook
