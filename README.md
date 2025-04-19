@@ -15,7 +15,7 @@ Os dados foram extraídos de fontes oficiais e correspondem à **semana epidemio
 
 Foi criado um **mapa interativo** das regiões do Brasil com destaque para os óbitos novos na semana:
 
-➡️ [Clique aqui para ver o mapa interativo](outputs/mapa_obitos_covid_2025.html)
+➡️ [Clique aqui para ver o mapa interativo](outputs/Mapa Interativo de Obitos po Covid em 2025 no Brasil.png)
 
 ## 🧪 Tecnologias utilizadas
 
