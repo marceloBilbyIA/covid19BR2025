@@ -1,4 +1,4 @@
-# 🦠 Análise de Casos de COVID-19 no Brasil – 2025
+# 🦠 Análise de Casos de COVID-19 no Brasil – 2025 - Atualizado até 18/04/2025
 
 Este projeto tem como objetivo analisar os dados de COVID-19 no Brasil, com foco nos **novos casos** e **óbitos** por **região geográfica**, utilizando visualizações interativas para facilitar a interpretação dos dados.
 
